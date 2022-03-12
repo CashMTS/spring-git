@@ -25,9 +25,5 @@ public class HelloworldApplication implements CommandLineRunner{
 		System.out.println(hw);
 	}
 	
-	//test git
-	/*
-	 * teeeeeest
-	 */
 
 }
